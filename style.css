@@ -1,0 +1,27 @@
+.dot{
+    background-color: red;
+    margin-left: 490px;
+    margin-top: 5%;
+    align-items: center;
+    border-style: outset;
+    border-width: 20px;
+    height: 300px;
+    border-radius: 10px;
+}
+input[type=button]{
+    width: 50px;
+    background-color: green;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+input[type=button]:hover{
+    color: yellow;
+    background-color: orange;
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1JbLHUmPUeU2MblDobVTKqMioKHNitKdarUU9SZVV1B7hZRyi2WY59nA4f0TzKoBZ9-M&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
